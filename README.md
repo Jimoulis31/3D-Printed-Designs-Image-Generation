@@ -48,7 +48,7 @@ Then:
 
 ### Program Interface
 
-![Program Screenshot](3D Printed.png)
+![Program Screenshot](3DPrinted.png)
 
 ## Requirements
 
