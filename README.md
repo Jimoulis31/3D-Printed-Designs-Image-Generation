@@ -59,10 +59,6 @@ Then:
 
 Contributions are welcome! Please feel free to submit issues or pull requests to improve this project.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Author
 
 Created by [Jimoulis31](https://github.com/Jimoulis31)
