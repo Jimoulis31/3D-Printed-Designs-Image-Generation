@@ -48,16 +48,7 @@ Then:
 
 ### Program Interface
 
-_Add your program screenshot here:_
-
-![Program Screenshot](./screenshots/program_interface.png)
-
-### Example Output
-
-_Add example generated images here:_
-
-![Example Design 1](./screenshots/example_1.png)
-![Example Design 2](./screenshots/example_2.png)
+![Program Screenshot](3D Printed.png)
 
 ## Requirements
 
